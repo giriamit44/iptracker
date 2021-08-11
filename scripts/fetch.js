@@ -1,4 +1,4 @@
-const COMMON_ENDPOINT = 'https://geo.ipify.org/api/v1?apiKey=at_6Sn4JeMD9Mq9neDhjzFzjeEDHeLPo';
+const COMMON_ENDPOINT = 'https://geo.ipify.org/api/v1?apiKey=at_Cdp2uV4Dx0e2FKs5igorrOseEneVF&ipAddress=8.8.8.8';
 
 async function checkResponse(res) { 
 	if(res.ok) 
